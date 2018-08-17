@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/17428621/python-differentiating-between-row-and-column-vectors
+https://stackoverflow.com/questions/5954603/transposing-a-numpy-array
+https://docs.scipy.org/doc/numpy/user/quickstart.html
+http://www.scipy-lectures.org/intro/numpy/operations.html
+http://www.scipy-lectures.org/intro/scipy.html#scipy-linalg
