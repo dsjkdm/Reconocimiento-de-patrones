@@ -3,3 +3,4 @@ https://stackoverflow.com/questions/5954603/transposing-a-numpy-array
 https://docs.scipy.org/doc/numpy/user/quickstart.html
 http://www.scipy-lectures.org/intro/numpy/operations.html
 http://www.scipy-lectures.org/intro/scipy.html#scipy-linalg
+http://cmdlinetips.com/2018/04/how-to-concatenate-arrays-in-numpy/
